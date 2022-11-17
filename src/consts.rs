@@ -1,0 +1,1 @@
+pub const AAAAAAMUGOTTO_HAJI_ANKO_GUGYONGMAN_HESSOYO:&str = "아ㅏㅏㅏㅏ무것도 개발하지 않고 구경만 했어요";
